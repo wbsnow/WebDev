@@ -36,7 +36,7 @@ namespace BJI2012.Controllers
             return View();
         }
 
-        public ActionResult TropitoneCommerical()
+        public ActionResult TropitoneCommercial()
         {
             return View();
         }

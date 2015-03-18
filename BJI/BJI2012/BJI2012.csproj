@@ -96,6 +96,8 @@
     <Content Include="Content\Images\Companies\Splash.swf" />
     <Content Include="Content\Images\Companies\tex.jpg" />
     <Content Include="Content\Images\Companies\trc.jpg" />
+    <Content Include="Content\Images\Companies\TropitoneCommercial.jpg" />
+    <Content Include="Content\Images\Companies\TropitoneResidential.jpg" />
     <Content Include="Content\Images\Companies\wabash.jpg" />
     <Content Include="Content\Images\Companies\winston.jpg" />
     <Content Include="Content\Images\Portraits\Bill-Snow.jpg" />
@@ -169,7 +171,9 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\modernizr-1.7.js" />
     <Content Include="Scripts\modernizr-1.7.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -229,7 +233,7 @@
     <Content Include="Views\Companies\WabashValley.cshtml" />
     <Content Include="Views\Companies\WinstonFurniture.cshtml" />
     <Content Include="Views\Companies\WinstonContract.cshtml" />
-    <Content Include="Views\Companies\TropitoneCommerical.cshtml" />
+    <Content Include="Views\Companies\TropitoneCommercial.cshtml" />
     <Content Include="Views\Companies\TropitoneResidential.cshtml" />
   </ItemGroup>
   <PropertyGroup>

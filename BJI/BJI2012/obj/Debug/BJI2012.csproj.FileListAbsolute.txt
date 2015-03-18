@@ -12,3 +12,10 @@ C:\Workspace\BJI2012\BJI2012\bin\EntityFramework.dll
 C:\Workspace\BJI2012\BJI2012\bin\EntityFramework.xml
 C:\Workspace\BJI2012\BJI2012\obj\Debug\BJI2012.pdb
 C:\Workspace\BJI2012\BJI2012\obj\Debug\BJI2012.csprojResolveAssemblyReference.cache
+C:\Dev\BJI\BJI2012\bin\BJI2012.dll
+C:\Dev\BJI\BJI2012\bin\BJI2012.pdb
+C:\Dev\BJI\BJI2012\bin\EntityFramework.dll
+C:\Dev\BJI\BJI2012\bin\EntityFramework.xml
+C:\Dev\BJI\BJI2012\obj\Debug\BJI2012.csprojResolveAssemblyReference.cache
+C:\Dev\BJI\BJI2012\obj\Debug\BJI2012.dll
+C:\Dev\BJI\BJI2012\obj\Debug\BJI2012.pdb

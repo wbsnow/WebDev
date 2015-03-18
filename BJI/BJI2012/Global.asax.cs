@@ -70,9 +70,9 @@ namespace BJI2012
             );
 
             routes.MapRoute(
-                "Tropitone Commerical", // Route name
-                "Tropitone-Commerical", // URL with parameters
-                new { controller = "Companies", action = "TropitoneCommerical" } // Parameter defaults
+                "Tropitone Commercial", // Route name
+                "Tropitone-Commercial", // URL with parameters
+                new { controller = "Companies", action = "TropitoneCommercial" } // Parameter defaults
             );
 
             routes.MapRoute(
