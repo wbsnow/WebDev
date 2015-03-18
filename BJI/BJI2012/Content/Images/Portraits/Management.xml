@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<managers>
+
+<!-- ===============================  Corporate Personnel  =============================== -->
+
+<manager type="Executive" area="Corporate">
+	<name>Gene Moriarty</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/Gene-Moriarty.jpg</portraitImageURL>
+	<openText>serves as President and Chief Executive Officer of Brown Jordan International. 
+	Mr. Moriarty began his employment with Brown Jordan International in May 2005 and subsequently engineered a 
+	turnaround in the Company’s performance based upon:</openText>
+	<bulletPoint>Low cost manufacturing through best business processes</bulletPoint>
+	<bulletPoint>A disciplined New Product Development process</bulletPoint>
+	<bulletPoint>Supply Chain rationalization</bulletPoint>
+	<bulletPoint>Margin enhancement throughout all Brown Jordan International’s businesses</bulletPoint>
+	<bulletPoint>Revitalization of the Specialty Retail segment of the business</bulletPoint>
+	<bulletPoint>Reinvestment in meaningful brand-building initiatives</bulletPoint>
+	<closeText>Prior to joining Brown Jordan International, Mr. Moriarty was President and Chief Operating Officer 
+	at Evenflo Baby Products, an equity holding of KKR, starting in June 2000. From 1997 to 2000, 
+	he was Vice President of Sales and Marketing for Playtex Products. Before serving in these 
+	top management positions, he was an Executive Consultant with Meridian Consulting Group. 
+	Mr. Moriarty has also served in executive positions with Tambrands, Inc. and Slim Fast Foods, 
+	and was Vice President of Sales and Marketing for the Warner Music Division of Time Warner, Inc.</closeText>
+</manager>
+
+
+
+<manager type="Executive" area="Corporate">
+	<name>Vincent A. Tortorici, Jr.</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/Vincent-Tortorici.jpg</portraitImageURL>
+	<openText>has served as Chief Financial Officer of the Company and its predecessors since March 1988. 
+	In addition, Mr. Tortorici has held numerous positions as Vice President and Treasurer of the Company, 
+	its predecessors and subsidiaries. Prior to being employed by Brown Jordan International, Mr. Tortorici was with 
+	Arthur Andersen &amp; Co. from 1976-1988. Mr. Tortorici is a Certified Public Accountant.</openText>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<closeText></closeText>
+</manager>
+
+<manager type="Executive" area="Corporate">
+	<name>Fred King</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/Fred Headshot 1 - 8-2010 H128W102.jpg</portraitImageURL>
+	<openText>serves as Executive Vice President, General Counsel and Corporate Secretary of Brown Jordan International, Inc. 
+	Mr. King began his employment with Brown Jordan International in September 2006 and is responsible for the following areas 
+	in the Company:</openText>
+	<bulletPoint>Legal Affairs</bulletPoint>
+	<bulletPoint>Human Resources</bulletPoint>
+	<bulletPoint>Risk Management</bulletPoint>
+	<closeText>
+        In addition, Mr. King is responsible for management of the Company’s Contract Seating business unit.
+        <![CDATA[<br />]]>
+        <![CDATA[<br />]]>
+        Prior to joining Brown Jordan International, Mr. King was Vice President, General Counsel and Corporate 
+        Secretary of Givaudan Flavors Corporation and Givaudan Fragrances Corporation, the world’s largest flavors 
+        and fragrances company. He was with Givaudan from 2000 through 2006.
+        <![CDATA[<br />]]>
+	<![CDATA[<br />]]>
+        From 1997 to 2000, Mr. King served as Vice President, General Counsel of Standard Textile Co., Inc., a global leader 
+        in the manufacture and distribution of healthcare and surgical products, hospitality products and apparel.
+        <![CDATA[<br />]]>
+	<![CDATA[<br />]]>
+        From 1994 to 1997, Mr. King was a corporate attorney with The Progressive Group of Insurance Companies, the nation’s 
+        third largest automobile insurer. Mr. King began his legal career as an associate at Squire, Sanders &amp; Dempsey,
+		a global law firm based in Cleveland with 37 offices worldwide and over 1,200 attorneys.
+		<![CDATA[<br />]]>
+	<![CDATA[<br />]]>
+        Mr. King holds a Bachelors of Science in Mechanical Engineering from The Ohio State University and a Juris Doctorate 
+        from The Ohio State University College of Law.
+    </closeText>
+</manager>
+
+<manager type="Executive" area="Corporate">
+	<name>Bill Snow</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/Bill-Snow.jpg</portraitImageURL>
+	<openText>as Chief Information Officer for Brown Jordan International, leads the Company’s 
+	Information Technology strategy and initiatives. Mr. Snow has been with Brown Jordan International since June, 2002. 
+	Prior to joining the Company, he served for seven years as CIO at Catalina Lighting, a major 
+	supplier of residential lighting products for mass merchants and lighting showrooms. 
+	He began his career in I.T. consulting, providing technology solutions for mid-sized enterprises 
+	in the chemical, aviation, marine craft, construction, machine tools, and electronics industries.</openText>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<closeText></closeText>
+</manager>
+
+<!--  =============================== Company Personnel  =============================== -->
+<!--
+<manager type="Executive" area="Company">
+	<name>Chris Carmicle</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/Chris-Carmicle-07.jpg</portraitImageURL>
+	<openText>serves as President, National Accounts and Direct Imports Division for Brown Jordan 
+	International and is the top executive for Casual Living Worldwide, Inc., based in Louisville, 
+	Kentucky.  Mr. Carmicle’s career with Brown Jordan International began in 2002 as Director of Business Development for the 
+	Specialty division of Brown Jordan International. 
+	<![CDATA[<br />]]>
+	<![CDATA[<br />]]>
+	He was promoted to Vice President of National 
+	Accounts in 2002 and ultimately promoted to his current position as President, National Accounts 
+	and Direct Imports Division in 2004. Prior to joining Brown Jordan International, he founded ABCpoint, a Washington D.C. 
+	based business-to-business technology provider developed exclusively for one of the nation’s 
+	leading trade associations (Associated Builders and Contractors) with operations in 82 markets 
+	across the United States.
+	<![CDATA[<br />]]>
+	<![CDATA[<br />]]> 	
+	Mr. Carmicle has also served as Vice President for Creative Marketing 
+	Alternatives, responsible for production and marketing of Internet advertising, and Senior 
+	Project Manager for River City Development in Louisville, Kentucky. Mr. Carmicle holds a Bachelor 
+	of Science in Civil Engineering from The University of Kentucky and a MBA from Bellarmine University.</openText>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<closeText></closeText>
+</manager>
+-->
+<!--
+<manager type="Executive" area="Company">
+	<name>Bill Brown</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/Bill_Brown.jpg</portraitImageURL>
+	<openText>
+		serves Brown Jordan International as Chief Marketing Officer, Specialty Retail/Outdoor Contract Division.
+		He started with the company, then known as WinsLoew Furniture, in January 1994, having served as
+		senior vice president, sales and marketing, for Winston Furniture Company until 2003.
+		<![CDATA[<br />]]>
+	<![CDATA[<br />]]>
+	Other experience 
+	since joining the casual furniture industry in 1980 includes senior management positions with 
+	Samsonite/Lineal Design, Woodard, and as president of Pride Family Brands. Bill has been active on the 
+	board of directors for the Summer Casual Furniture Manufacturer's Association since 1994, and has 
+	participated in the Casual Furniture Retailers association events for over 20 years.</openText>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<closeText></closeText>
+</manager>
+
+<manager type="Executive" area="Company">
+	<name>Jerry Shilling</name>
+	<title></title>
+	<portraitImageURL>Images/Portraits/NoImageAvailableSilhouetteW100H128.jpg</portraitImageURL>
+	<openText>serves as President of Wabash Valley Manufacturing. After graduating from high school in 1969, 
+	Mr. Shilling spent one year in Australia as a Rotary International sponsored exchange student, whereby 
+	upon his return he was involved in several entrepreneurial ventures associated with farming. Mr. Shilling 
+	founded Wabash Valley in 1978 as a start-up and continues to serve as the company’s president.</openText>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<bulletPoint></bulletPoint>
+	<closeText></closeText>
+</manager>
+-->
+</managers>
