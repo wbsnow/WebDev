@@ -235,6 +235,7 @@
     <Content Include="Views\Companies\WinstonContract.cshtml" />
     <Content Include="Views\Companies\TropitoneCommercial.cshtml" />
     <Content Include="Views\Companies\TropitoneResidential.cshtml" />
+    <None Include="Properties\PublishProfiles\Web.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
